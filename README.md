@@ -1,2 +1,3 @@
-"# tic-tac-toe-v2" 
-"# tic-tac-toe-v2" 
+My first project!!
+
+Presenting tic-tac-toe-v2
